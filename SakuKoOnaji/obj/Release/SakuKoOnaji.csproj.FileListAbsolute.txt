@@ -1,0 +1,14 @@
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\bin\Release\SakuKoOnaji.exe.config
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\bin\Release\SakuKoOnaji.exe
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\bin\Release\SakuKoOnaji.pdb
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\MainWindow.g.cs
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\App.g.cs
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\SakuKoOnaji_MarkupCompile.cache
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\SakuKoOnaji_MarkupCompile.lref
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\MainWindow.baml
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\SakuKoOnaji.g.resources
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\SakuKoOnaji.Properties.Resources.resources
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\SakuKoOnaji.csproj.GenerateResource.cache
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\SakuKoOnaji.exe
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\SakuKoOnaji.pdb
+C:\Users\TK\source\repos\SakuKoOnaji\SakuKoOnaji\obj\Release\SakuKoOnaji.csprojAssemblyReference.cache
